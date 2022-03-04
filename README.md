@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaharAsadii
+- 👋 Hi, I’m Sahar Asadi
 - 👀 I’m interested in front-end developing.
 - 📫 How to reach me:
 - email  :sahar.asadii74@gmail.com
