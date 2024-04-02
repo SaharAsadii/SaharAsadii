@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahar Asadi
-- 👀 I’m interested in front-end developing.
+- 👀 I’m a front-end developer.
 - 📫 How to reach me:
-- email  :sahar.asadii74@gmail.com
+- email  : sahar.asadii74@gmail.com
 - linkedin : https://www.linkedin.com/in/sahar-asadi-3360a7166/
